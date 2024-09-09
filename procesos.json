@@ -1,0 +1,26 @@
+{
+    "FIFO": [
+        {"nombre": "P1", "tiempo_salida": 0, "tiempo_final": 2},
+        {"nombre": "P2", "tiempo_salida": 2, "tiempo_final": 10},
+        {"nombre": "P3", "tiempo_salida": 10, "tiempo_final": 16},
+        {"nombre": "P4", "tiempo_salida": 16, "tiempo_final": 23},
+        {"nombre": "P5", "tiempo_salida": 23, "tiempo_final": 27},
+        {"nombre": "P6", "tiempo_salida": 27, "tiempo_final": 33}
+    ],
+    "SJF": [
+        {"nombre": "P1", "tiempo_salida": 0, "tiempo_final": 2},
+        {"nombre": "P2", "tiempo_salida": 25, "tiempo_final": 33},
+        {"nombre": "P3", "tiempo_salida": 2, "tiempo_final": 8},
+        {"nombre": "P4", "tiempo_salida": 18, "tiempo_final": 25},
+        {"nombre": "P5", "tiempo_salida": 8, "tiempo_final": 12},
+        {"nombre": "P6", "tiempo_salida": 12, "tiempo_final": 18}
+    ],
+    "Prioridad": [
+        {"nombre": "P1", "tiempo_salida": 0, "tiempo_final": 2},
+        {"nombre": "P2", "tiempo_salida": 2, "tiempo_final": 10},
+        {"nombre": "P3", "tiempo_salida": 20, "tiempo_final": 26},
+        {"nombre": "P4", "tiempo_salida": 26, "tiempo_final": 33},
+        {"nombre": "P5", "tiempo_salida": 10, "tiempo_final": 14},
+        {"nombre": "P6", "tiempo_salida": 14, "tiempo_final": 20}
+    ]
+}
